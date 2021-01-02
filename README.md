@@ -6,4 +6,4 @@ The Flower of Life is a geometrical figure composed of multiple evenly-spaced, o
 
 It is a symbol of sacred geometry, said to contain ancient, religious value depicting the fundamental forms of space and time. In this sense, it is a visual expression of the connections life weaves through all sentient beings.
 
-In this project, we are going to build a Flower of Life (VR) in index.html using A-Frame.
+In this project, we are going to build a Flower of Life (VR) using A-Frame.
